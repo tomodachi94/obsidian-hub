@@ -104,6 +104,7 @@ These issues might not always be easy to solve.
 - [[obsidian-icon-folder|Obsidian Icon Folder]] - [Show Icons in Obsidian Publish](https://github.com/FlorianWoelki/obsidian-icon-folder/issues/60)
 - [[obsidian-memos|Obsidian Memos]] - [手机移动端的记录叠在一起无法显示](https://github.com/Quorafind/Obsidian-Memos/issues/128)
 - [[obsidian-memos|Obsidian Memos]] - [设置flomo API](https://github.com/Quorafind/Obsidian-Memos/issues/119)
+- [[omnisearch|Omnisearch]] - [Tokenization of Chinese sentences](https://github.com/scambier/obsidian-omnisearch/issues/33)
 - [[obsidian-org-mode|Org Mode]] - [Integrate with Search](https://github.com/ryanpcmcquen/obsidian-org-mode/issues/7)
 - [[obsidian-org-mode|Org Mode]] - [Make .org default for new notes?](https://github.com/ryanpcmcquen/obsidian-org-mode/issues/6)
 - [[obsidian-org-mode|Org Mode]] - [Integrate with internal Obisidian links.](https://github.com/ryanpcmcquen/obsidian-org-mode/issues/5)
