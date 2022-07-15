@@ -3,8 +3,12 @@ name: python
 on:
   push:
     branches: [ '**' ]
+    paths:
+      - "*.py"
   pull_request:
     branches: [ '**' ]
+    paths:
+      - "*.py"
 
 jobs:
   python_tests:
